@@ -1,5 +1,6 @@
 # Tableau Chicago Relocation Guide (SQL, Python, Tableau) - Dec 2023
 ![image](https://github.com/omkardabholkar/Tableau-Chicago-Relocation-Guide/assets/163356063/66039df7-d7b8-4b55-bb2b-731720b09f82)  
+[Tableau Chicago Relocation Guide](https://public.tableau.com/app/profile/omkardabholkar/viz/Chicago_17103078576530/HomePage).
 
 # Table of Contents
 1. [Project Description](#project-description)
